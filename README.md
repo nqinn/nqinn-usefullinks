@@ -1,2 +1,4 @@
 # nqinn-usefullinks
-I learned HTML and this is my first HTML project
+HTML by Nqinn
+
+CSS by [Evolizen](https://github.com/Evolizen/)
